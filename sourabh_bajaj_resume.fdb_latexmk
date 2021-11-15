@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1636977212 "/Users/baiangchen/Documents/resume/sourabh_bajaj_resume.tex" "/Users/baiangchen/Documents/resume/sourabh_bajaj_resume.pdf" "sourabh_bajaj_resume" 1636977213
-  "/Users/baiangchen/Documents/resume/sourabh_bajaj_resume.aux" 1636977213 1309 7e7f7eefcb888c47dc19859d79ff03c4 ""
-  "/Users/baiangchen/Documents/resume/sourabh_bajaj_resume.tex" 1636977211 8863 30ff7a922d32cc735e67d3386a0fa9e9 ""
+["pdflatex"] 1636977449 "/Users/baiangchen/Documents/resume/sourabh_bajaj_resume.tex" "/Users/baiangchen/Documents/resume/sourabh_bajaj_resume.pdf" "sourabh_bajaj_resume" 1636977451
+  "/Users/baiangchen/Documents/resume/sourabh_bajaj_resume.aux" 1636977451 1309 7e7f7eefcb888c47dc19859d79ff03c4 ""
+  "/Users/baiangchen/Documents/resume/sourabh_bajaj_resume.tex" 1636977449 8863 7f1b0a059958fb405cc17a8a8126a5d2 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -90,13 +90,13 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1619957596 2724737 b46c007eb1f37390b3650328d74e679a ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "sourabh_bajaj_resume.aux" 1636977213 1309 7e7f7eefcb888c47dc19859d79ff03c4 "pdflatex"
-  "sourabh_bajaj_resume.out" 1636977213 508 2eff96e7b7ea29df4c002a01358455f9 "pdflatex"
-  "sourabh_bajaj_resume.tex" 1636977211 8863 30ff7a922d32cc735e67d3386a0fa9e9 ""
+  "sourabh_bajaj_resume.aux" 1636977451 1309 7e7f7eefcb888c47dc19859d79ff03c4 "pdflatex"
+  "sourabh_bajaj_resume.out" 1636977451 508 2eff96e7b7ea29df4c002a01358455f9 "pdflatex"
+  "sourabh_bajaj_resume.tex" 1636977449 8863 7f1b0a059958fb405cc17a8a8126a5d2 ""
   (generated)
+  "/Users/baiangchen/Documents/resume/sourabh_bajaj_resume.pdf"
   "sourabh_bajaj_resume.out"
   "sourabh_bajaj_resume.aux"
   "sourabh_bajaj_resume.pdf"
   "sourabh_bajaj_resume.log"
   "/Users/baiangchen/Documents/resume/sourabh_bajaj_resume.log"
-  "/Users/baiangchen/Documents/resume/sourabh_bajaj_resume.pdf"
